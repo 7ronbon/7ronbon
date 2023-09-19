@@ -3,7 +3,8 @@
 -  CS , but other than that I do art ! more than just illustration :)
 -  
 - 🌱 I’m currently learning....
--  CS (JS) , i know a bit of python
+-  CS (JS) , i know a bit of python,
+-  learning CPP from school !
 -  
 - 💞️ I’m looking to collaborate on...
 -  literally anything tbh !! i would love to learn something new !
